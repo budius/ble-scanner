@@ -1,5 +1,5 @@
 object SdkVersion {
-	val compile = 29
-	val min = 21
-	val target = 29
+	const val compile = 29
+	const val min = 21
+	const val target = 29
 }
